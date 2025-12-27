@@ -1,5 +1,6 @@
 package br.com.alura.scrennmatch;
 
+import br.com.alura.scrennmatch.model.Episodio;
 import br.com.alura.scrennmatch.principal.Principal;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
